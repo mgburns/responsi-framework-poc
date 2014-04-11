@@ -1,0 +1,23 @@
+{
+  "name": "responsi",
+  "title": "Responsi",
+  "description": "A responsive theme framework for BU WP",
+  "version": "0.1.0",
+  "homepage": "http://www.bu.edu/webteam",
+  "author": {
+    "name": "Boston University",
+    "email": "webteam@bu.edu"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "matchdep": "~0.1.2",
+    "grunt-contrib-concat": "~0.1.2",
+    "grunt-contrib-uglify": "~0.1.1",
+    "grunt-contrib-cssmin": "~0.6.0",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt-sass": "~0.12.1"
+  },
+  "keywords": []
+}
