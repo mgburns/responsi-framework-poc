@@ -28,7 +28,7 @@ module.exports = function( grunt ) {
 			options: {
 				jshintrc: '.jshintrc'
 			},
-			theme: [ 'js/**/*.js' ],
+			theme: [ 'js/src/*.js' ],
 		},
 
 		// Javascript minification
